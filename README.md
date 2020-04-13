@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This helps you in adding new tasks you have to complete and has got a interactive UI. You can mark the task as done and not done and also delete the task as per your choice. You can add as many tasks as you want. The above Notification bell tells you of how hany tasks are left to be done. 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
